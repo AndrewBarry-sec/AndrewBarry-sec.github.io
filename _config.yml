@@ -12,7 +12,7 @@ remote_theme: jekyll/minima
 
 # minima appearance
 minima:
-  skin: solarized
+  skin: solarized dark
 
 
 # plugins
