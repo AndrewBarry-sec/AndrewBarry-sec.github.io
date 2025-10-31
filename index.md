@@ -12,7 +12,6 @@ Welcome to my Cybersecurity Blog
 - **[About](/about/)** - Learn more about me
 
 ## Recent Posts
-
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
