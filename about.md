@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 title: About
-nav_order: 2
+permalink: /about/
 ---
 
 

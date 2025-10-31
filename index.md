@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Home
-nav_order: 1
+author_profile: true
 ---
 
 Welcome to my Cybersecurity Blog
