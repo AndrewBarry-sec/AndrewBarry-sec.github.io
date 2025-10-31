@@ -10,6 +10,16 @@ language: en
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 
+# jtd appearance
+color_scheme: dark
+
+# search
+search_enabled: true
+search:
+  heading_level: 1
+  previews: 4
+  preview_words_before: 5
+  preview_words_after: 10
 
 
 
