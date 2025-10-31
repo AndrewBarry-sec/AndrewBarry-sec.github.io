@@ -12,7 +12,7 @@ theme: minima
 
 # minima appearance
 minima:
-skin: dark
+  skin: dark
 
 
 # plugins
