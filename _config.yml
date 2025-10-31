@@ -8,19 +8,18 @@ language: en
 
 # Build settings
 markdown: kramdown
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
 
-# jtd appearance
-color_scheme: dark
+# Theme settings
+minimal_mistakes_skin: dark
 
-# search
-search_enabled: true
-search:
-  heading_level: 1
-  previews: 4
-  preview_words_before: 5
-  preview_words_after: 10
-
+# Author info
+author:
+  name: "Andrew Barry"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AndrewBarry-sec"
 
 
 # plugins
@@ -28,11 +27,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-include-cache
 
-
-# navigation
-header_pages:
-  - index.md
-  - about.md
-  - tutorials.md
-  - learning-journey.md
+# Pagination
+paginate: 5
+paginate_path: /page:num/

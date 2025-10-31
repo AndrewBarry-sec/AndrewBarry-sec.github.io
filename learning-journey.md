@@ -1,7 +1,7 @@
 ---
 layou: page
 title: Learning Journey
-permalink: /learning-journey/
+nav_order: 4
 ---
 
 # my IT and CyberSecurity learning journey

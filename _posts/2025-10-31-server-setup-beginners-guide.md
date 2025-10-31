@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "basics on server setup"
-date: 2025-10-31
-categories: [tutorials]
-tags: [tutorials, server, cybersecurity, networking, linux]
+layout: default
+title: "Server Setup Guide"
+parent: Tutorials
 ---
+
+*Published: October 31, 2025 | Tags: server, linux, homelab*
+
+
 
 # Server Beginner's Guide
