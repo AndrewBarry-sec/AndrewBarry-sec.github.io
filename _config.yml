@@ -8,11 +8,9 @@ language: en
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima
+remote_theme: just-the-docs/just-the-docs
 
-# minima appearance
-minima:
-  skin: auto
+
 
 
 # plugins
