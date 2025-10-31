@@ -1,0 +1,23 @@
+title: Andrew Barry - IT and Cybersecuyrity blog
+description: A blog about IT, Cybersecurity, and Programming by Andrew Barry. Guided tutorials and documentation of learning advanced concepts in I.T fields.
+author: Andrew Barry
+email: andrewbarry025@outlook.com
+url: https://AndrewBarry-sec.github.io
+language: en
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+  #navigation
+  header_pages:
+    - index.md
+    - about.md
+    - tutorials.md
+    - learning-journey.md
