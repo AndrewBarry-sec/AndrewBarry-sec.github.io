@@ -1,18 +1,22 @@
 --- 
----
+--- 
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-// Force wider content
-.layout--single .page__inner-wrap {
-    max-width: 100% !important;
+body {
+    font-size: 16px;
 }
 
-.layout--single .page__content {
+.page,
+.page__inner-wrap,
+.page__content,
+.archive {
     max-width: 1400px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
-.masthead__inner-wrap,
-.page__footer-follow {
-    max-width: 1400px !important;
+.page {
+    width: 100% !important;
+    float: none !important;
 }
