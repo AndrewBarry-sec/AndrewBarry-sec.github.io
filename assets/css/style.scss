@@ -3,20 +3,30 @@
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-body {
-    font-size: 16px;
-}
-
-.page,
-.page__inner-wrap,
-.page__content,
-.archive {
-    max-width: 1400px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
 .page {
-    width: 100% !important;
-    float: none !important;
+    @include breakpoint($large) {
+        float: left;
+        width: 100%; 
+        padding-right: 0; 
+    }
+
+    @include breakpoint($x-large) {
+        width: 100%;
+        padding-right: 0;
+    }
 }
+
+.page__inner-wrap {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page__content {
+    max-width: 100%;
+}
+
+.archive {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
