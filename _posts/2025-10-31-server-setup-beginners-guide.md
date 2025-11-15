@@ -61,21 +61,40 @@ The network workload is more dependant on your personal network and less dependa
 If the server is intended to only be used locally (inside the local network) then the network specifics are not as important. If no external access is occurring then you do not need to change anything about your network.
 
 If you intend on accessing your network externally then you need to consider how this will happen   
-    **VPN**  
-    -tailscale, Wiregaurd or other VPN's  
-    -requires port forwarding unless you use tailscale  
-    (choose this for security)  
+#### 1: VPN
+**Software:** Tailscale, WireGuard, OpenVPN
 
-    **port forward directly**  
-    -open ports on your network to the internet  
-    (choose this if you want simplicity and if you are aware conscious of the risks)  
+**Requirements:**
+- Port forwarding (unless you use tailscale)
 
-    **reverse Proxy**  
-    - nginx proxy manager, cloudflare tunnel  
-    - you access your server via a domain name that you set up  
-    - will still require port forwarding unless you make a tunnel with cloudflare, tailscale funnel, ngrok  
-    (choose if you want a domain address for external access and if you want to use a tunnel with no open ports)  
-   
+**Choose if:** you want security
+
+**consideration:** if services like chrome casting is important to you it will most likely not work with external access considering chromecast typically prevents screensharing/casting when a VPN is being used 
+
+---
+
+#### 2: Direct Port Forwarding
+**Software:** none needed
+
+**Requirements:**  
+- Port forwarding
+
+**Choose this if:** You want simplicity and understand the security risks
+
+---
+
+#### 3: Reverse Proxy + Domain
+**Software:** Nginx Proxy Manager, Cloudflare Tunnel, Tailscale Funnel, ngrok
+
+**How it works:** Access your server via custom domain name (subdomain.domain.com)
+
+**Requirements:**
+- **with Port Forwarding:** Nginx Proxy Manager, Caddy, Traefik  
+- **NO port forwarding (tunnel):** Cloudflare Tunnel, Tailscale Funnel, ngrok
+
+**Choose this if:** you want a more professional look for external users. Additionally it is also a good option if you want no open ports
+
+---   
 
 ## what you will need
 your chosen computer  
