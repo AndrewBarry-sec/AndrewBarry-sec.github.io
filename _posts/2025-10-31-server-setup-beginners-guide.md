@@ -60,7 +60,10 @@ The network workload is more dependant on your personal network and less dependa
 ### network specifics
 If the server is intended to only be used locally (inside the local network) then the network specifics are not as important. If no external access is occurring then you do not need to change anything about your network.
 
-If you intend on accessing your network externally then you need to consider how this will happen   
+If you intend on accessing your network externally then you need to consider how this will happen  
+ 
+<div style="margin-left: 40px;">
+
 #### 1: VPN
 **Software:** Tailscale, WireGuard, OpenVPN
 
@@ -95,6 +98,8 @@ If you intend on accessing your network externally then you need to consider how
 **Choose this if:** you want a more professional look for external users. Additionally it is also a good option if you want no open ports
 
 ---   
+
+</div>
 
 ## what you will need
 your chosen computer  
