@@ -62,9 +62,9 @@ If the server is intended to only be used locally (inside the local network) the
 
 If you intend on accessing your network externally then you need to consider how this will happen  
  
-<div style="margin-left: 40px;">
 
-#### 1: VPN
+
+##### 1: VPN
 **Software:** Tailscale, WireGuard, OpenVPN
 
 **Requirements:**
@@ -76,7 +76,7 @@ If you intend on accessing your network externally then you need to consider how
 
 ---
 
-#### 2: Direct Port Forwarding
+##### 2: Direct Port Forwarding
 **Software:** none needed
 
 **Requirements:**  
@@ -86,7 +86,7 @@ If you intend on accessing your network externally then you need to consider how
 
 ---
 
-#### 3: Reverse Proxy + Domain
+##### 3: Reverse Proxy + Domain
 **Software:** Nginx Proxy Manager, Cloudflare Tunnel, Tailscale Funnel, ngrok
 
 **How it works:** Access your server via custom domain name (subdomain.domain.com)
@@ -99,7 +99,6 @@ If you intend on accessing your network externally then you need to consider how
 
 ---   
 
-</div>
 
 ## what you will need
 your chosen computer  
