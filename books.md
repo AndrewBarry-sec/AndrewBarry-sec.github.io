@@ -6,9 +6,11 @@ permalink: /books/
 
 # Books
 
-## My Published Works
+Amazon author page: [AmazonAuthor] (amazon.com/author/andrethobarry)
 
-My published works: [Amazon](KDP_link_coming_soon).
+## Published Works
+
+The Ban on Resentment & Embers at an Exhibition: [Amazon](https://www.amazon.com.au/dp/B0H1D97L4S).
 
 ## Reading List
 
