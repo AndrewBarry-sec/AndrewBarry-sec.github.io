@@ -4,15 +4,15 @@ title: Books
 permalink: /books/
 ---
 
-Amazon author page: [Amazon Author](https://www.amazon.com/author/andrethobarry)
+[Amazon author page] (https://www.amazon.com/author/andrethobarry)
 
 ## Published Works
 
-The Ban on Resentment & Embers at an Exhibition: [Amazon](https://www.amazon.com.au/dp/B0H1D97L4S).
+The Ban on Resentment & Embers at an Exhibition >>> [Amazon](https://www.amazon.com.au/dp/B0H1D97L4S).
 
 ## Reading List
 
-Follow along with what I am currently reading: [Goodreads](Link_coming_Soon).
+Follow along with what I am currently reading >>> [Goodreads](goodreads.com/andrethobarry).
 
 ## Contact
 - Email: andrewbarry025@outlook.com
