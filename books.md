@@ -6,7 +6,7 @@ permalink: /books/
 [Amazon author page](https://www.amazon.com/author/andrethobarry)
 ## Published Works
 
-The Ban on Resentment & Embers at an Exhibition | > > > | [Amazon](https://www.amazon.com.au/dp/B0H1D97L4S)
+*The Ban on Resentment & Embers at an Exhibition* | > > > | [Amazon](https://www.amazon.com.au/dp/B0H1D97L4S)
 
 ## Reading List
 

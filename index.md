@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-Welcome to my Cybersecurity Blog
+*Welcome to my Cybersecurity Blog*
 
 
 ## Explore these pages
