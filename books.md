@@ -12,7 +12,7 @@ The Ban on Resentment & Embers at an Exhibition > > > [Amazon](https://www.amazo
 
 ## Reading List
 
-Follow along with what I am currently reading > > > [Goodreads](goodreads.com/andrethobarry).
+Follow along with what I am currently reading > > > [Goodreads](https://www.goodreads.com/user/show/201395639-andretho-barry).
 
 ## Contact
 - Email: andrewbarry025@outlook.com
