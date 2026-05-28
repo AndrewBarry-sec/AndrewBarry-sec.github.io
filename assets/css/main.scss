@@ -3,12 +3,8 @@
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-body {
-    font-family: 'Palatino Linotype', Palatino, serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'EB Garamond', Garamond, serif;
+* {
+    font-family: 'Palatino Linotype', Palatino, serif !important;
 }
 
 .page {
