@@ -10,6 +10,7 @@ Welcome to my Cybersecurity Blog
 - **[Tutorials](/tutorials/)** - Hand crafted and polished walkthroughs to learn IT and Cyber Security techniques
 - **[Learning Journey](/learning-journey/)** - My raw learning process of IT concepts
 - **[About](/about/)** - Learn more about me
+- **[Books](/books/)** - My published works and reading list
 
 ## Recent Posts
 {% for post in site.posts limit:5 %}
