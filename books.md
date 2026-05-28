@@ -4,8 +4,6 @@ title: Books
 permalink: /books/
 ---
 
-# Books
-
 Amazon author page: [AmazonAuthor] (amazon.com/author/andrethobarry)
 
 ## Published Works
