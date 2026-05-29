@@ -6,7 +6,7 @@ header:
   caption: "Welcome to my Cybersecurity Blog"
 ---
 
-*A collection for my projects, Blogs, turorials and books*
+*~ A collection of my Projects, Blogs, Tutorials and Books ~*
 
 
 ## Explore these pages
