@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true\
+author_profile: false
 header:
   image: /assets/Images/banner.jpg
   caption: "Welcome to my Cybersecurity Blog"
