@@ -3,10 +3,10 @@ layout: single
 author_profile: true\
 header:
   image: /assets/Images/banner.jpg
-  caption: ""
+  caption: "Welcome to my Cybersecurity Blog"
 ---
 
-*Welcome to my Cybersecurity Blog*
+
 
 
 ## Explore these pages
