@@ -15,6 +15,10 @@ table, td, th {
     border: 1px solid #ccc;
 }
 
+table {
+    width: auto;
+}
+
 .page {
     @include breakpoint($large) {
         float: left;
